@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "549300667350",
+    "project_id": "dealtheka-be4e5",
+    "storage_bucket": "dealtheka-be4e5.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:549300667350:android:459a30b357ef9313115a77",
+        "android_client_info": {
+          "package_name": "com.dealtheka.dealthekaapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsTI0MR19Av7PVjApI9wfpv064WucGDyA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
