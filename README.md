@@ -35,8 +35,8 @@ It bridges the gap between service providers and customers by offering a simple 
 ## Tech Stack
 
 * Frontend: Flutter (Mobile App)
-* Backend: (Add your backend tech here – e.g., Node.js / Firebase / Laravel)
-* Database: (e.g., SQLite / Firebase / MySQL)
+* Backend: Firebase
+* Database: Firebase
 * API: REST APIs for communication
 
 
